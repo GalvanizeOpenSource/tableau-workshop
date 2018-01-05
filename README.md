@@ -6,6 +6,8 @@ Everyone is welcome, whether you are completely new to Tableau or have some amou
 
 Topics covered will include visualization best practices, utilizing calculated fields, data preparation techniques, working with multiple measures, and creating drill down variables.
 
+You can view the Tableau Public version of the workbook here: https://public.tableau.com/views/TableauWorkshop-FBICrimeData2013/Demonstration1?:embed=y&:display_count=yes
+
 Please have Tableau Public installed on your computer (or Tableau Desktop if you bought a license) so you can follow along with the activities presented. You can find the installation instructions in this location https://public.tableau.com/en-us/s/.
 
 Installation instructions for TabPy (Python integration with Tableau): https://github.com/tableau/TabPy.
