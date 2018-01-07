@@ -8,6 +8,9 @@ Topics covered will include visualization best practices, utilizing calculated f
 
 You can view the Tableau Public version of the workbook here: https://public.tableau.com/views/TableauWorkshop-FBICrimeData2013/Demonstration1?:embed=y&:display_count=yes
 
+You can view the presentation slides here:
+https://docs.google.com/presentation/d/1jbtICn8pwhVb80BnB2Bal0J1T-AupH8OUjE82vsVBs8/edit?usp=sharing
+
 Please have Tableau Public installed on your computer (or Tableau Desktop if you bought a license) so you can follow along with the activities presented. You can find the installation instructions in this location https://public.tableau.com/en-us/s/.
 
 Installation instructions for TabPy (Python integration with Tableau): https://github.com/tableau/TabPy.
