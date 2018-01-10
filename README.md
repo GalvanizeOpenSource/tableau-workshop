@@ -11,3 +11,7 @@ Download one of the following to be able to make your own workbook:
 * Tableau Desktop (free trial): https://tableau.com/products/desktop/download
 
 Optional - If you would like to follow along for the brief Python in Tableau demonstration, you will need to install TabPy: https://github.com/tableau/TabPy
+
+Note that Tableau only has apps for Mac & Windows.
+
+If you are not attending the workshop in person, but would like still to work your way through this repo, you can open the TableauWorkshop2018.twbx file and work your way through replicating the visualizations.
