@@ -1,1 +1,12 @@
+# Notes folder
 /notes
+
+# OSX extras
+.DS_Store
+
+# Test cache
+.cache/*
+tests/__pycache__/*
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints
