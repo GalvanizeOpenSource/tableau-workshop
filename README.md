@@ -26,8 +26,6 @@ If you are not attending the workshop in person, but would like still to work yo
     │
     ├── README.md                 <- The top-level README with a project summary
     │
-    ├── requirements.txt          <- The requirements file for reproducing the analysis environment;
-    │                                generated with `pipreqs .`;
-    │                                can be installed using `pip install -r requirements.txt`
-    │
     ├── TableauWorkshop2018.twbx  <- Packaged Tableau workbook with all exercises completed
+    │
+    ├── TitanticModel.ipynb       <- Notebook for building a model and connecting with TabPy
