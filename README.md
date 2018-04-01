@@ -7,12 +7,12 @@ Everyone is welcome, whether you are completely new to Tableau or have some amou
 Topics covered will include utilizing calculated fields, data preparation techniques, working with multiple measures, and creating drill down variables.
 
 Download one of the following to be able to make your own workbook:
-* Tableau Public (always free) - make an account and then download the app: https://public.tableau.com
 * Tableau Desktop (free trial): https://tableau.com/products/desktop/download
+* Tableau Public (always free) - make an account and then download the app: https://public.tableau.com
 
 Note that Tableau only has apps for Mac & Windows.
 
-If you are not attending the workshop in person, but would like still to work your way through this repo, you can open the TableauWorkshop2018.twbx file and work your way through replicating the visualizations.
+If you are not attending the workshop in person, but would like still to work your way through this repo, you can open the TableauWorkshop2018.twbx file and work your way through replicating the visualizations. 
 
 ### Repository Layout
 
@@ -26,4 +26,4 @@ If you are not attending the workshop in person, but would like still to work yo
     │
     ├── TableauWorkshop2018.twbx  <- Packaged Tableau workbook with all exercises completed
     │
-    ├── TitanticModel.ipynb       <- Notebook for building a model and connecting with TabPy
+    ├── TitanticModel.ipynb       <- Bonus notebook for building a model and connecting with TabPy
